@@ -1,9 +1,8 @@
 # WeatherApp
 
-This is a weather forcast App using Weather API
+This is a weather forcast App using [Weather API](https://getambee.com/api/weather)
 
-1. Create account on https://openweathermap.org/ using email smartwork,
-   get AppId = d71489546ede021d72f1f39fb19ad36b
+1. Create account on https://getambee.com/ 
 
 2. Find how to do geocoding API to get latitude and longitude from address so that you can input to open weather app
 
